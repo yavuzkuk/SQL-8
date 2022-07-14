@@ -110,20 +110,24 @@ WHERE id = 5
 `
 DELETE FROM employee
 WHERE id = 34
-``
+`
 ---------
+`
 DELETE FROM employee
-WHERE id = 4``
+WHERE id = 4`
 ---------
+`
 DELETE FROM employee
-WHERE id = 45``
+WHERE id = 45`
 ---------
+`
 DELETE FROM employee
-WHERE id = 14``
+WHERE id = 14`
 ---------
+`
 DELETE FROM employee
 WHERE id = 24
+`
 ---------
 
-`
 
